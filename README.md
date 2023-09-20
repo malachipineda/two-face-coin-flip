@@ -3,7 +3,7 @@ Can't decide if you should order Pizza or Chinese? Let Two-Face decide for you a
 
 **Link to project:** https://tan-impossible-parrot.cyclic.app/
 
-[![Two-Face flipping coin gif](https://i.gyazo.com/e269098c66c3727255eba04aa7d7c7ae.gif)](https://gyazo.com/e269098c66c3727255eba04aa7d7c7ae)
+[![Image from Gyazo](https://i.gyazo.com/17d5b2f1bce3bfe5761527c42cb9c438.gif)](https://gyazo.com/17d5b2f1bce3bfe5761527c42cb9c438)
 
 ## How It's Made:
 
