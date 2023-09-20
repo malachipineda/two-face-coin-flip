@@ -3,7 +3,7 @@ Can't decide if you should order Pizza or Chinese? Let Two-Face decide for you a
 
 **Link to project:** https://tan-impossible-parrot.cyclic.app/
 
-[![Image from Gyazo](https://i.gyazo.com/17d5b2f1bce3bfe5761527c42cb9c438.gif)](https://gyazo.com/17d5b2f1bce3bfe5761527c42cb9c438)
+[![Two-Face flipping coin gif](https://i.gyazo.com/e269098c66c3727255eba04aa7d7c7ae.gif)](https://gyazo.com/e269098c66c3727255eba04aa7d7c7ae)
 
 ## How It's Made:
 
@@ -19,4 +19,4 @@ Need to crop and resize the coin images. Need to fix the delay that sometimes ha
 
 ## Lessons Learned:
 
-Learned how to build an API which takes in a user input and then randomizes a number in the server before responding to the user with the result of the randomization.
+I learned how to build an API which takes in a user input and then randomizes a number in the server before responding to the user with the result of the randomization.
